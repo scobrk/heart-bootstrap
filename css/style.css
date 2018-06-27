@@ -1,0 +1,35 @@
+body{
+    padding: 0;
+}
+
+.dark-bg{
+    background-color: #333;
+}
+
+.light-text{
+    color: whitesmoke;
+}
+
+.main-bg{
+    background-image: url("/img/pexels-photo-268833.jpeg");
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    height: 600px;
+}
+
+
+h1{
+    padding: 80px;
+}
+
+.card{
+    background-color: rosybrown;
+}
+
+.second-area{
+    height: 400px;
+    width: auto;
+}
